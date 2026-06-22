@@ -191,13 +191,13 @@ optimization)
 
 Criteria
 
-Definition
-
 Supervised ML
 
 Unsupervised ML
 
 Reinforcement ML
+
+Definition
 
 Learns by using labelled
 data
@@ -581,9 +581,10 @@ Parameter
 
 33
 
-34
+Online Media 5.mp4
 
-35
+Video Source - https://www.youtube.com/watch?v=VMp6pq6_QjI
+34
 
 References for today’s session
 
@@ -591,11 +592,11 @@ Parameter
 
 Andrew G. Barto, Second Ed. , MIT Press
 
-36
+35
 
 End of Session #1
 
 Thank you
 
-37
+36
 
